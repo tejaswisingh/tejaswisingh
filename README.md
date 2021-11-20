@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tejaswisingh/tejaswisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +22,8 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 
 ## &#x270d; Upskilling
 
-Apart from coding everyday, I also like yo upskill myself in my free time.
-
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+⚡ Apart from coding everyday, I also like yo upskill myself in my free time.
+⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 ## 🔧 Langueages & Tools
 <p align="left">
@@ -52,9 +49,9 @@ Apart from coding everyday, I also like yo upskill myself in my free time.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaswisingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tejaswi's GitHub Stats" />
 </a>
 <a href="https://github.com/tejaswisingh/tejaswisingh">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejaswisingh&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejaswisingh&repo=Basic-Web-Scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/softwaredevelopmentengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejaswisingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/softwaredevelopmentengineer" target="blank"><img align="center" src="https://github.com/tejaswisingh/tejaswisingh/blob/main/images/linked-in-alt.svg" alt="tejaswisingh" height="30" width="40" /></a>
