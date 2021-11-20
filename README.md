@@ -23,6 +23,7 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 ## &#x270d; Upskilling
 
 ⚡ Apart from coding everyday, I also like yo upskill myself in my free time.
+
 ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 ## 🔧 Langueages & Tools
@@ -54,4 +55,4 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/softwaredevelopmentengineer" target="blank"><img align="center" src="https://github.com/tejaswisingh/tejaswisingh/blob/main/images/linked-in-alt.svg" alt="tejaswisingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/softwaredevelopmentengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejaswisingh" height="30" width="40" /></a>
