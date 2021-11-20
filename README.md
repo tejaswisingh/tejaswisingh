@@ -26,7 +26,7 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 
 ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -51,6 +51,9 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 </a>
 <a href="https://github.com/tejaswisingh/tejaswisingh">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejaswisingh&repo=Basic-Web-Scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/tejaswisingh/tejaswisingh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tejaswisingh&repo=Aisle-Finder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
