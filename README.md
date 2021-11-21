@@ -11,18 +11,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+# Hello folks!👋
 -->
 ![Header](https://github.com/tejaswisingh/tejaswisingh/blob/main/images/banner.png)
 
-# Hello folks!👋
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+ I'm Tejaswi Singh</h1>
+ 
+<h3 align="center">I am a Full Stack Software Developer. I am from India, living & working permanently in New York</h3>
 
-My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India, living & working permanently in New York.
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=tejaswisingh alt=tejaswisingh/> </p>
 
 ## &#x270d; Upskilling
 
-⚡ Apart from coding everyday, I also like yo upskill myself in my free time.
+⚡ Apart from coding everyday, I also like to upskill myself in my free time.
 
 ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
@@ -43,9 +46,9 @@ My name is Tejaswi Singh. I am a Full Stack Software Developer. I am from India,
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/tejaswisingh/tejaswisingh">
+<!-- <a href="https://github.com/tejaswisingh/tejaswisingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswisingh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 <a href="https://github.com/tejaswisingh/tejaswisingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaswisingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tejaswi's GitHub Stats" />
 </a>
