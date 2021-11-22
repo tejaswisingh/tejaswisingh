@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Full Stack Software Developer. I am from India, living & working permanently in New York</h3>
 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=tejaswisingh alt=tejaswisingh/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=tejaswisingh alt=tejaswisingh/> </p>
 
 ## &#x270d; Upskilling
 
