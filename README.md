@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
  I'm Tejaswi Singh</h1>
  
-<h3 align="center">I am a Full Stack Software Developer. I am from India, living & working permanently in Virginia</h3>
+<h3 align="center">I am a Full Stack Software Developer. I am from India, living & working permanently in United States.</h3>
 
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=tejaswisingh alt=tejaswisingh/> </p>
